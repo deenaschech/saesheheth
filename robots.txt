@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eamieviexo.breckenedge.com/sitemap.xml
